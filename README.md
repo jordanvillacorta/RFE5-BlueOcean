@@ -4,6 +4,10 @@ Blue Ocean Documentation / Resources
 Main resource for creating our Cruze App:
 -- https://www.youtube.com/watch?v=bvn_HYpix6s
 
+*** REACT NATIVE DOCS/RESOURCES ***
+The official Github page for react-native-maps:
+-- https://github.com/react-native-maps/react-native-maps
+
 *** EXPO DOCS/RESOURCES ***
 A great stack overflow answer for fixing an Expo Client disconnect issue:
 -- https://stackoverflow.com/questions/65752638/expo-developer-tools-is-disconnected-from-expo-cli-when-trying-to-run-react-n
